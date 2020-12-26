@@ -1,16 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=i2xd0lQAAAAJ&hl=de)"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<br>
+<b>[Multi-agent learning for energy-aware placement of autonomous vehicles]</b> <br> 
+<b>Ömer Ibrahim Erduran</b> et al.
+<i>18th IEEE International Conference On Machine Learning And Applications</i>. <b>ICMLA 2019</b>.
