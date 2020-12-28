@@ -10,4 +10,3 @@ redirect_from:
 
 Hello world!
 
-Hi
