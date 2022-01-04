@@ -10,4 +10,4 @@ redirect_from:
 
 Hi there!
 
-My name is Ömer and I study in the field of distributed AI and Multi-agent systems for Mobility on Demand services.
+My name is Ömer and I study the field of distributed AI and Multi-agent systems for Mobility on Demand services.
