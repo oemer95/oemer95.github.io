@@ -9,6 +9,6 @@ author_profile: true
 <i>18th IEEE International Conference On Machine Learning And Applications</i>. <b>ICMLA 2019</b>.
 <br>
 <br>
-<b>Negotiation in ride-hailing between cooperating BDI agents</b> <br> 
+<b>Negotiation in Ride-hailing between Cooperating BDI Agents</b> <br> 
 <b>Ömer Ibrahim Erduran</b> et al.<br>
 <i>13th International Conference on Agents and Artificial Intelligence</i>. <b>ICAART 2022</b>.
