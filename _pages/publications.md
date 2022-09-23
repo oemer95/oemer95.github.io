@@ -18,6 +18,7 @@ author_profile: true
 <b>Ömer Ibrahim Erduran</b> <br>
 <i>KI 2022 Doctoral Consortium Proceedings</i>. <b>KI2022</b>.
 <br>
+<br>
 <b>Machine Learning algorithms for cognitive and autonomous BDI Agents</b> <br>
 <b>Ömer Ibrahim Erduran</b> <br>
 <i>Proceedings of the LWDA 2022 Workshops: FGWM 2022.</i>. <b>LWDA 2022</b>.
