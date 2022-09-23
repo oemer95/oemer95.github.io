@@ -21,5 +21,5 @@ author_profile: true
 <br>
 <b>Machine Learning algorithms for cognitive and autonomous BDI Agents</b> <br>
 <b>Ömer Ibrahim Erduran</b> <br>
-<i>Proceedings of the LWDA 2022 Workshops: FGWM 2022.</i>. <b>LWDA 2022</b>.
+<i>Proceedings of the LWDA 2022 Workshops: FGWM 2022</i>. <b>LWDA 2022</b>.
 <br>
