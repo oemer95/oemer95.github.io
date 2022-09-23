@@ -12,3 +12,13 @@ author_profile: true
 <b>Negotiation in Ride-hailing between Cooperating BDI Agents</b> <br> 
 <b>Ömer Ibrahim Erduran</b> et al.<br>
 <i>13th International Conference on Agents and Artificial Intelligence</i>. <b>ICAART 2022</b>.
+<br>
+<br>
+<b>Cognitive Learning Agents for Autonomous Mobility on Demand systems</b> <br>
+<b>Ömer Ibrahim Erduran</b> <br>
+<i>KI 2022 Doctoral Consortium Proceedings</i>. <b>KI2022</b>.
+<br>
+<b>Machine Learning algorithms for cognitive and autonomous BDI Agents</b> <br>
+<b>Ömer Ibrahim Erduran</b> <br>
+<i>Proceedings of the LWDA 2022 Workshops: FGWM 2022.</i>. <b>LWDA 2022</b>.
+<br>
