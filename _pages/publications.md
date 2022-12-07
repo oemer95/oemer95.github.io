@@ -23,3 +23,8 @@ author_profile: true
 <b>Ömer Ibrahim Erduran</b> <br>
 <i>Proceedings of the LWDA 2022 Workshops: FGWM 2022</i>. <b>LWDA 2022</b>.
 <br>
+<br>
+<b>Machine Learning for Cognitive BDI Agents - A Compact Survey</b> <br>
+<b>Ömer Ibrahim Erduran</b> <br>
+<i>14th International Conference on Agents and Artificial Intelligence</i>. <b>ICAART 2023</b>.
+<br>
