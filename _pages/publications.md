@@ -5,12 +5,12 @@ author_profile: true
 ---
 <br>
 <b>Multi-agent learning for energy-aware placement of autonomous vehicles</b> <br> 
-<b>Ömer Ibrahim Erduran</b> et al.<br>
+<b>Ömer Ibrahim Erduran</b>, Mirjam Minor, Lars Hedrich, Ahmad Tarraf, Frederik Ruehl, Hans Schroth<br>
 <i>18th IEEE International Conference On Machine Learning And Applications</i>. <b>ICMLA 2019</b>.
 <br>
 <br>
 <b>Negotiation in Ride-hailing between Cooperating BDI Agents</b> <br> 
-<b>Ömer Ibrahim Erduran</b> et al.<br>
+<b>Ömer Ibrahim Erduran</b>, Marcel Mauri, Mirjam Minor<br>
 <i>14th International Conference on Agents and Artificial Intelligence</i>. <b>ICAART 2022</b>.
 <br>
 <br>
