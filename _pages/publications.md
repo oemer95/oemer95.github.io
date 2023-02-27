@@ -26,5 +26,5 @@ author_profile: true
 <br>
 <b>Machine Learning for Cognitive BDI Agents - A Compact Survey</b> <br>
 <b>Ömer Ibrahim Erduran</b> <br>
-<i>Accepted at 15th International Conference on Agents and Artificial Intelligence</i>. <b>ICAART 2023</b>.
+<i>15th International Conference on Agents and Artificial Intelligence</i>. <b>ICAART 2023</b>.
 <br>
