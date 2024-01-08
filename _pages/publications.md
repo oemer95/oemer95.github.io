@@ -28,3 +28,8 @@ author_profile: true
 <b>Ömer Ibrahim Erduran</b> <br>
 <i>15th International Conference on Agents and Artificial Intelligence</i>. <b>ICAART 2023</b>.
 <br>
+<br>
+<b>Integrating BDI Agents with the MATSim Traffic Simulation for Autonomous Mobility on Demand</b> <br>
+Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Thu Pham Dieu Anh, Mirjam Minor <br>
+<i>LWDA 2023 Workshop: FGWM 2023</i>. <b>LWDA 2023</b>.
+<br>
