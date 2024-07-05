@@ -33,8 +33,8 @@ author_profile: true
 Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Thu Pham Dieu Anh, Mirjam Minor <br>
 <i>LWDA 2023 Workshop: FGWM 2023</i>. <b>LWDA 2023</b>.
 <br>
-<!--<br>
+<br>
 <b>Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand</b> <br>
-Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Thu Pham Dieu Anh, Mirjam Minor <br>
-<i>Accepted at AAMAS 2024 Workshop: EMAS 2024</i>. <b>EMAS 2024</b>.
-<br>-->
+Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Mirjam Minor <br>
+<i>AAMAS 2024 Workshop: EMAS 2024</i>. <b>EMAS 2024</b>.
+<br>
