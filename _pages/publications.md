@@ -36,5 +36,5 @@ Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Thu Pham Dieu Anh, Mirjam Minor <br>
 <br>
 <b>Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand</b> <br>
 Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Mirjam Minor <br>
-<i>AAMAS 2024 Workshop: EMAS 2024</i>. <b>EMAS 2024</b>.
+<i>23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) 2024 Workshop: EMAS 2024</i>. <b>EMAS 2024</b>.
 <br>
