@@ -38,3 +38,8 @@ Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Thu Pham Dieu Anh, Mirjam Minor <br>
 Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Mirjam Minor <br>
 <i>23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) 2024 Workshop: EMAS 2024</i>. <b>EMAS 2024</b>.
 <br>
+<br>
+<b>Deep Reinforcement Learning for Software Agents in Mobility on Demand</b> <br>
+<b>Ömer Ibrahim Erduran</b> <br>
+<i>LWDA 2024 Workshop: FGWM 2024</i>. <b>LWDA 2024</b>.
+<br>
