@@ -43,3 +43,9 @@ Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Mirjam Minor <br>
 <b>Ömer Ibrahim Erduran</b> <br>
 <i>LWDA 2024 Workshop: FGWM 2024</i>. <b>LWDA 2024</b>.
 <br>
+<br>
+<b>Robust BDI Agents in Autonomous Mobility on Demand</b> <br>
+<b>Marcel Mauri, Ömer Ibrahim Erduran, Mirjam Minor</b> <br>
+<i>Accepted at: IEEE Artificial Intelligence x Data & Knowledge Engineering (AIxDKE)</i>. <b>AIxDKE 2024</b>.
+<br>
+
