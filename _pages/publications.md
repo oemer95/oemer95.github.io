@@ -46,6 +46,6 @@ Marcel Mauri, <b>Ömer Ibrahim Erduran</b>, Mirjam Minor <br>
 <br>
 <b>Robust BDI Agents in Autonomous Mobility on Demand</b> <br>
 <b>Marcel Mauri, Ömer Ibrahim Erduran, Mirjam Minor</b> <br>
-<i>Accepted at: IEEE Artificial Intelligence x Data & Knowledge Engineering (AIxDKE)</i>. <b>AIxDKE 2024</b>.
+<i>Accepted at: IEEE International Conference On Artificial Intelligence x Data & Knowledge Engineering (AIxDKE)</i>. <b>AIxDKE 2024</b>.
 <br>
 
