@@ -3,4 +3,71 @@ title: "Projects  [(Google Scholar)](https://scholar.google.com/citations?user=i
 permalink: /projects/
 author_profile: true
 ---
+# Research Projects
 
+Here’s a selection of my research projects, primarily focused on intelligent agents, mobility simulation, and machine learning.
+
+---
+
+## 🚖 1. Cognitive BDI Agents for Ride-Hailing
+
+- **Description:** Developed BDI agents that negotiate shared ride offers using realistic decision models. The agents are integrated with MATSim for simulation in large-scale urban scenarios.
+- **Technologies:** Jadex BDI, Java, MATSim
+- **Highlights:**
+  - Implemented trip negotiation logic.
+  - Integrated reasoning-based agents into a transport simulator.
+- **Paper:** *ICAART 2022*  
+- **Code:** [GitHub Repository](#)
+
+---
+
+## 📊 2. Cluster-Based Vehicle Placement for Ride-Hailing
+
+- **Description:** Applied unsupervised learning to analyze ride request patterns and optimize vehicle placement in urban areas.
+- **Technologies:** Python, scikit-learn, NumPy, Pandas, MATSim
+- **Highlights:**
+  - Spatial clustering of trip origins and destinations.
+  - Evaluation in synthetic and real-world traffic datasets.
+- **Paper:** *ICMLA 2019*  
+- **Code:** [GitHub Repository](#)
+
+---
+
+
+## 🤖 3. Offline MARL for Shared Mobility
+
+- **Description:** Investigated offline reinforcement learning techniques for multi-agent coordination in ride-pooling environments.
+- **Technologies:** PyTorch, RLLib, Offline RL, MATSim, DJL
+- **Highlights:**
+  - Custom offline datasets generated from MATSim.
+  - Evaluation of multi-agent performance under varying fleet sizes.
+- **Paper:** 
+- **Code:** [GitHub Repository](#)
+
+---
+
+## 🧠 4. Deep Reasoning in BDI Agents
+
+- **Description:** Conceptual exploration of integrating deep learning with symbolic reasoning inside BDI architectures.
+- **Technologies:** Jadex, PyTorch, Planning Logic
+- **Highlights:**
+  - Surveyed hybrid neuro-symbolic architectures.
+  - Proposed a modular integration strategy for ML in agent decision-making.
+- **Paper:** *LWDA 2024 
+- **Code:** [GitHub Repository](#)
+
+---
+
+## 🔌 5. MATSim-Jadex Integration Framework
+
+- **Description:** Built a software bridge between MATSim and Jadex to enable simulation of cognitively rich agents in realistic traffic environments.
+- **Technologies:** Java, MATSim, Jadex
+- **Highlights:**
+  - Generic interface for perception-action loops.
+  - Easily extensible for new agent behaviors.
+- **Paper:** *EMAS 2024* 
+- **Code:** [GitHub Repository](#)
+
+---
+
+> 🔗 For more, check out my [GitHub](https://github.com/YOUR_USERNAME) or reach out on [LinkedIn](#)!
