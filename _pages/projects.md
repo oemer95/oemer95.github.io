@@ -9,7 +9,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 
 ---
 
-## 🚖 1. Cognitive BDI Agents for Ride-Hailing
+## Cognitive BDI Agents for Ride-Hailing
 
 - **Description:** Developed BDI agents that negotiate shared ride offers using realistic decision models. The agents are integrated with MATSim for simulation in large-scale urban scenarios.
 - **Technologies:** Jadex BDI, Java, MATSim
@@ -21,7 +21,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 
 ---
 
-## 📊 2. Cluster-Based Vehicle Placement for Ride-Hailing
+## Cluster-Based Vehicle Placement for Ride-Hailing
 
 - **Description:** Applied unsupervised learning to analyze ride request patterns and optimize vehicle placement in urban areas.
 - **Technologies:** Python, scikit-learn, NumPy, Pandas, MATSim
@@ -34,7 +34,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 ---
 
 
-## 🤖 3. Offline MARL for Shared Mobility
+## Offline MARL for Shared Mobility
 
 - **Description:** Investigated offline reinforcement learning techniques for multi-agent coordination in ride-pooling environments.
 - **Technologies:** PyTorch, RLLib, Offline RL, MATSim, DJL
@@ -46,7 +46,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 
 ---
 
-## 🧠 4. Deep Reasoning in BDI Agents
+## Deep Reasoning in BDI Agents
 
 - **Description:** Conceptual exploration of integrating deep learning with symbolic reasoning inside BDI architectures.
 - **Technologies:** Jadex, PyTorch, Planning Logic
@@ -58,7 +58,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 
 ---
 
-## 🔌 5. MATSim-Jadex Integration Framework
+## MATSim-Jadex Integration Framework
 
 - **Description:** Built a software bridge between MATSim and Jadex to enable simulation of cognitively rich agents in realistic traffic environments.
 - **Technologies:** Java, MATSim, Jadex
@@ -70,4 +70,4 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 
 ---
 
-> 🔗 For more, check out my [GitHub](https://github.com/YOUR_USERNAME) or reach out on [LinkedIn](#)!
+> 🔗 For more, check out my [GitHub](https://github.com/oemer95) or reach out on [LinkedIn](https://www.linkedin.com/in/oemer-erduran/)!
