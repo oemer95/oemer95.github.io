@@ -51,8 +51,8 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 - **Highlights:**
   - Surveyed hybrid neuro-symbolic architectures.
   - Proposed a modular integration strategy for ML in agent decision-making.
-- **Paper:** *LWDA 2024 
-- **Code:** [GitHub Repository](#)
+- **Paper:** *Erduran. "Deep Reinforcement Learning for Software Agents in Mobility on Demand". LWDA 2024 Workshop: FGWM 2024.* 
+- **Code:** [GitHub Repository](https://github.com/oemer95/Jadex-DJL)
 
 ---
 
