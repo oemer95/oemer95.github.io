@@ -15,7 +15,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
   - Implemented trip negotiation logic.
   - Integrated reasoning-based agents into a transport simulator.
 - **Paper:** *ICAART 2022*  
-- **Code:** [Github](https://github.com/oemer95/ees)
+- **Code:** [Github Repository](https://github.com/oemer95/ees)
 
 ---
 
@@ -27,20 +27,6 @@ Here’s a selection of my research projects, primarily focused on intelligent a
   - Spatial clustering of trip origins and destinations.
   - Evaluation in synthetic and real-world traffic datasets.
 - **Paper:** *ICMLA 2019*  
-- **Code:** [GitHub Repository](#)
-
----
-
-
-## Offline MARL for Shared Mobility
-
-- **Description:** Investigated offline reinforcement learning techniques for multi-agent coordination in ride-pooling environments.
-- **Technologies:** PyTorch, RLLib, Offline RL, MATSim, DJL
-- **Highlights:**
-  - Custom offline datasets generated from MATSim.
-  - Evaluation of multi-agent performance under varying fleet sizes.
-- **Paper:** 
-- **Code:** [GitHub Repository](#)
 
 ---
 
@@ -64,7 +50,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
   - Generic interface for perception-action loops.
   - Easily extensible for new agent behaviors.
 - **Paper:** *EMAS 2024* 
-- **Code:** [GitHub Repository](#)
+- **Code:** [GitHub Repository](https://github.com/oemer95/ees/tree/emas24)
 
 ---
 
