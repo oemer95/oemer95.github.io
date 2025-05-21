@@ -14,7 +14,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 - **Highlights:**
   - Implemented trip negotiation logic.
   - Integrated reasoning-based agents into a transport simulator.
-- **Paper:** *ICAART 2022*  
+- **Paper:** *Erduran, Ö.I. et al.; "Negotiation in Ride-hailing between Cooperating BDI Agents". ICAART 2022*  
 - **Code:** [Github Repository](https://github.com/oemer95/ees)
 
 ---
@@ -26,7 +26,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 - **Highlights:**
   - Spatial clustering of trip origins and destinations.
   - Evaluation in synthetic and real-world traffic datasets.
-- **Paper:** *ICMLA 2019*  
+- **Paper:** *Erduran, Ö.I. et al.; "Multi-agent learning for energy-aware placement of autonomous vehicles". ICMLA 2019*  
 
 ---
 
@@ -49,7 +49,7 @@ Here’s a selection of my research projects, primarily focused on intelligent a
 - **Highlights:**
   - Generic interface for perception-action loops.
   - Easily extensible for new agent behaviors.
-- **Paper:** *EMAS 2024* 
+- **Paper:** *Mauri, M. et al.; "Jadex BDI Agents Integrated with MATSim for Autonomous Mobility on Demand". EMAS 2024* 
 - **Code:** [GitHub Repository](https://github.com/oemer95/ees/tree/emas24)
 
 ---
